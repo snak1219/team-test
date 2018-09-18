@@ -1,4 +1,4 @@
-# This is Shota's contribution, I'm gonna plot something
+# This is Shota's contribution
 f <- function(a,b) {
   a
 }
